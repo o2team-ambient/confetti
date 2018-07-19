@@ -43,7 +43,9 @@ class Confetti {
     }
   }
   initDOM() {
-    const canvas = document.createElement('canvas')
+    const domMain = document.querySelector('.o2team_ambient_main')
+    const canvas = domMain.querySelector('canvas')
+    console.log(canvas)
     const devicePixelRatio = this.devicePixelRatio
     canvas.style.position = 'fixed'
     canvas.style.left = '0'
@@ -55,7 +57,7 @@ class Confetti {
     canvas.className = this.className
     canvas.width = this.width
     canvas.height = this.height
-    this.parent.appendChild(canvas)
+    // this.parent.appendChild(canvas)
     this.canvas = canvas
     this.ctx = canvas.getContext('2d')
   }
@@ -96,7 +98,6 @@ class Confetti {
   play() {
     this.isPaused = false
     this.update();
-
   }
 
   initConfig() {
