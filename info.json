@@ -2,8 +2,9 @@
   "author": "lison",
   "demoUrl": "http://jdc.jd.com/demo/ambient/confetti/",
   "title": "confetti",
+  "ambName": "彩带",
   "github": "https://github.com/o2team-ambient/confetti",
-  "demoSnippet": "<link href=\"//storage.jd.com/ambient/styles-confetti.css?t=1531982395000\" rel=\"stylesheet\"></link><!-- S 主体内容 -->\r\n  <div class=\"o2team_ambient_main\">\r\n    <canvas></canvas>\r\n  </div>\r\n  <!-- E 主体内容 --><script src=\"//storage.jd.com/ambient/bundle-confetti.js?t=1531982395000\"></script>",
-  "controlUrl": "//storage.jd.com/ambient/control-confetti.js?t=1531982395000",
-  "configUrl": "//storage.jd.com/ambient/config-confetti.js?t=1531982395000"
+  "demoSnippet": "<link href=\"//storage.jd.com/ambient/styles-confetti.css?t=1547714447000\" rel=\"stylesheet\"></link><!-- S 主体内容 -->\n  <div class=\"o2team_ambient_main\">\n    <canvas></canvas>\n  </div>\n  <!-- E 主体内容 --><script src=\"//storage.jd.com/ambient/bundle-confetti.js?t=1547714447000\"></script>",
+  "controlUrl": "//storage.jd.com/ambient/control-confetti.js?t=1547714447000",
+  "configUrl": "//storage.jd.com/ambient/config-confetti.js?t=1547714447000"
 }
