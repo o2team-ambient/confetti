@@ -1,7 +1,7 @@
 {
   "author": "lison",
-  "demoUrl": "http://jdc.jd.com/demo/ambient/confetti/",
-  "miniDemoUrl": "http://jdc.jd.com/demo/ambient/confetti/index_demo.html",
+  "demoUrl": "//o2team-ambient.github.io/confetti/dist/",
+  "miniDemoUrl": "//o2team-ambient.github.io/confetti/dist/index_demo.html",
   "title": "confetti",
   "ambName": "彩带",
   "github": "https://github.com/o2team-ambient/confetti",
