@@ -7,5 +7,7 @@
   "github": "https://github.com/o2team-ambient/confetti",
   "demoSnippet": "<link href=\"//storage.jd.com/ambient/styles-confetti.css?t=1552530184000\" rel=\"stylesheet\"></link><!-- S 主体内容 -->\n  <div class=\"o2team_ambient_main\">\n    <canvas></canvas>\n  </div>\n  <!-- E 主体内容 --><script src=\"//storage.jd.com/ambient/bundle-confetti.js?t=1552530184000\"></script>",
   "controlUrl": "//storage.jd.com/ambient/control-confetti.js?t=1552530184000",
-  "configUrl": "//storage.jd.com/ambient/config-confetti.js?t=1552530184000"
+  "configUrl": "//storage.jd.com/ambient/config-confetti.js?t=1552530184000",
+  "placeholderImg": "//storage.jd.com/ambient/confetti_placeholder.png?t=1554046137000",
+  "gifImg": "//storage.jd.com/ambient/confetti_motion.gif?t=1554046137000"
 }
