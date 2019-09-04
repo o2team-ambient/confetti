@@ -45,7 +45,6 @@ class Confetti {
   initDOM() {
     const domMain = document.querySelector('.o2team_ambient_main')
     const canvas = domMain.querySelector('canvas')
-    console.log(canvas)
     const devicePixelRatio = this.devicePixelRatio
     canvas.style.position = 'fixed'
     canvas.style.left = '0'
